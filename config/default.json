@@ -1,3 +1,4 @@
 {
-    "mongoURI" : "mongodb+srv://tejas:vr46lover@cluster0.hrl0e.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "mongoURI" : "mongodb+srv://tejas:vr46lover@cluster0.hrl0e.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret" : "mysecretjwt"
 }
